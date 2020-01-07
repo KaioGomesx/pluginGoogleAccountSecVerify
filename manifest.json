@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "version": "2.0",
+  "description": "test only",
+  "browser_action": {},
+  "manifest_version": 2,
+  "permissions": ["activeTab", "clipboardWrite", "tabs"]
+}
